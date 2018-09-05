@@ -1,8 +1,8 @@
-const int Motor1Pin1 = 10;  
-const int Motor1Pin2 = 11;
+const int Motor1Pin1 = 2;  
+const int Motor1Pin2 = 3;
 
-const int Motor2Pin2 =5;
-const int Motor2Pin1 = 6;
+const int Motor2Pin2 =4;
+const int Motor2Pin1 = 5;
 
 char incByte;
 
