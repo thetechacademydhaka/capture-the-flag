@@ -21,8 +21,7 @@ void loop() {
 
   if(Serial.available()>0){
     
-    incByte = Serial.read();//loop for infinity time power thakle motor cholbe
-    
+    incByte = Serial.read();
   }
 
  if(val<500){
